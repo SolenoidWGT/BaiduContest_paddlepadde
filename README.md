@@ -1,2 +1,3 @@
 # BaiduContest_paddlepadde
 基于深度学习的交通情况预测的导航系统
+目前系统分为三部分，APP实现，PADDLEPADDLE预测和路径规划部分
